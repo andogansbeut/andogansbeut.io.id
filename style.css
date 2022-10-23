@@ -65,7 +65,7 @@ header ul li a:hover {
 .banner {
     height: 80vh;
     border: #fff;
-    background-image: url(../img/banner.jpeg);
+    background-image: url(../andogansbeut.io.id/img/banner.jpg);
     background-size: cover;
     position: relative;
     display: flex;
@@ -81,7 +81,6 @@ header ul li a:hover {
     left: 0;
     right: 0;
     bottom: 0;
-    background-color: rgba(55, 230, 247, .6);
 }
 
 .banner h2 {
